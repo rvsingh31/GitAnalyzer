@@ -1,6 +1,3 @@
-
-# CSC 510 Project - Team 12
-
 **GitHub Source Code Analysis Portal**
 
 **Team Members:**
@@ -8,7 +5,9 @@
  - Darpan Dodiya - dpdodiya
  - Ravindersingh Rajpal - rkrajpal
  - Suvodeep Majumder - smajumd3
- 
+
+This project has been shifted from Enterprise Github to Personal Github profile, so commit history wont be available!
+
 ## [DESIGN.md](https://github.ncsu.edu/dpdodiya/csc510-project/blob/master/DESIGN.md)
 
 ## [MILESTONE2.md](https://github.ncsu.edu/dpdodiya/csc510-project/blob/master/MILESTONE2.md)
