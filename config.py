@@ -6,9 +6,9 @@ class Config(object):
     DEBUG = False
     TESTING = False
     CSRF_ENABLED = True
-    SECRET_KEY = '311296'
+    SECRET_KEY = :SECRET_KEY
     SQLALCHEMY_DATABASE_URI = os.environ['DATABASE_URL']
-    GIT_ACCESS_TOKEN = '3ec41628d6ba0c12e528628ddad7705b45419676'
+    GIT_ACCESS_TOKEN = :GIT_ACCESS_TOKEN
     GIT_API_BASE_URL = 'https://api.github.com'
 
 
