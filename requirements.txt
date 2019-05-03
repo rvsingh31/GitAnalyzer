@@ -1,0 +1,17 @@
+flask
+flask_sqlalchemy
+pygit2
+flask_script
+flask_migrate
+sqlalchemy
+alembic
+requests
+pandas
+flatten_dict
+pprint
+api
+numpy
+nltk
+networkx
+gunicorn
+psycopg2

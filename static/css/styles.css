@@ -1,0 +1,19 @@
+.selected{
+    color: orange;
+}
+.node {
+    position: absolute;
+    list-style: none;
+    cursor: default;
+}
+.node span {
+    margin-right: 3px;
+}
+
+.node .caret {
+    font-size: 10px;
+}
+
+.type_file:hover{
+    cursor:pointer;
+}
