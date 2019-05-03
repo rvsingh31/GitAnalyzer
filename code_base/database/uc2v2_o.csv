@@ -1,0 +1,5 @@
+RepoName,RepoUrl,SourceFilePath,DestinationFilePath,NoOfTimeChanged,NormalizedChange
+csc510-project,https://github.ncsu.edu/dpdodiya/csc510-project,database/Database_Schema_Design.png,README.md,10,0.4
+csc510-project,https://github.ncsu.edu/dpdodiya/csc510-project,README.md,code/Hello.py,20,1
+csc510-project,https://github.ncsu.edu/dpdodiya/csc510-project,DESIGN.md,database/Database_Schema_Design.png,30,0.666
+csc510-project,https://github.ncsu.edu/dpdodiya/csc510-project,DESIGN.md,DESIGN.md,40,0.48

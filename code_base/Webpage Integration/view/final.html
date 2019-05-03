@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="../css/styles.css">
+    <body>
+
+
+        <div class = "container">
+            <div class="row">
+                <div class = "col-md-9">
+                    <div class = "row">
+                        <div id = "tabView"></div>
+                    </div>
+                    <div class = "row">
+                        <button class = "btn btn-primary" onclick="reset_this();"> Reset Sheet</button>
+
+                    </div>
+
+                </div>
+                <div class = "col-md-3" style="height: 600px !important; overflow: scroll ">
+                    <div class = "row">
+                        <div id = "tree" ></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <script src = "https://public.tableau.com/javascripts/api/tableau-2.js"></script>
+        <script src = "../js/tableau.js"></script>
+        
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width">
+        <script type="text/javascript" src="http://d3js.org/d3.v3.min.js"></script>
+        <script type="text/javascript" src="../js/treelist.js"></script>
+        <script type="text/javascript" src="../js/d3code.js"></script>
+        <script type="text/javascript" src="../js/api_calls.js"></script>
+    </body>
+</html>

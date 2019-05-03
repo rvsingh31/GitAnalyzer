@@ -1,0 +1,5 @@
+RepoName,RepoUrl,SourceFilePath,NoOfTimeChanged,BuggyCommits,BuggyCommitsPercentage
+csc510-project,https://github.ncsu.edu/dpdodiya/csc510-project,database/Database_Schema_Design.png,10,40,0.6
+csc510-project,https://github.ncsu.edu/dpdodiya/csc510-project,README.md,20,30,0.9
+csc510-project,https://github.ncsu.edu/dpdodiya/csc510-project,DESIGN.md,30,20,0.1
+csc510-project,https://github.ncsu.edu/dpdodiya/csc510-project,DESIGN.md,40,10,1

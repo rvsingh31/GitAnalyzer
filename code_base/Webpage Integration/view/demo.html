@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <title>Tableau Demo</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <script src = "https://public.tableau.com/javascripts/api/tableau-2.js"></script>
+    <script src = "../js/tableau.js"></script>
+    <body onload="initViz();">
+        <form name = "tableau" id = "tableau">
+            <input type= "button" name = "test1" value= "Filter" onclick="filterBySingleValue();"/>
+            <input type= "button" name = "test2" value= "Add Values" onclick="AddValues();"/>
+            <input type= "button" name = "test2" value= "Reset" onclick="reset_this();"/>
+            <input type= "button" name = "test2" value= "Filter by Score" onclick="filterScore();"/>
+
+        </form>
+        <div id= "tabView"></div>
+    </body> 
+</html>
