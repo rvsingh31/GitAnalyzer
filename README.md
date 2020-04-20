@@ -20,3 +20,6 @@ This project has been shifted from Enterprise Github to Personal Github profile,
 
 ### Deployment
 Visit https://gitanalyzer-darpan.herokuapp.com/
+
+
+### NOTE: Since we were using free version of Tableau, you won't be able to mine new repositories as data cannot be uploaded to Tableau.
