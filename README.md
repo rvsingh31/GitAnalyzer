@@ -8,15 +8,15 @@
 
 This project has been shifted from Enterprise Github to Personal Github profile, so commit history wont be available!
 
-## [DESIGN.md](https://github.ncsu.edu/dpdodiya/csc510-project/blob/master/DESIGN.md)
+## [DESIGN.md](DESIGN.md)
 
-## [MILESTONE2.md](https://github.ncsu.edu/dpdodiya/csc510-project/blob/master/MILESTONE2.md)
+## [MILESTONE2.md](MILESTONE2.md)
 
-## [MILESTONE3.md](https://github.ncsu.edu/dpdodiya/csc510-project/blob/master/MILESTONE3.md)
+## [MILESTONE3.md](MILESTONE3.md)
 
-## [MILESTONE4.md](https://github.ncsu.edu/dpdodiya/csc510-project/blob/master/MILESTONE4.md)
+## [MILESTONE4.md](MILESTONE4.md)
 
-## [REPORT.md](https://github.ncsu.edu/dpdodiya/csc510-project/blob/master/REPORT.md)
+## [REPORT.md](REPORT.md)
 
 ### Deployment
 Visit https://gitanalyzer-darpan.herokuapp.com/
